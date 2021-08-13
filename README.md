@@ -100,6 +100,8 @@ As seguintes ferramentas foram usadas na construção do projeto:
 -   **[CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)**
 -   **[JavaScript](https://www.javascript.com/)**
 -   **[JQuery](https://jquery.com/)**
+-   **[Bootstrap](https://getbootstrap.com/)**
+
 
 ---
 
